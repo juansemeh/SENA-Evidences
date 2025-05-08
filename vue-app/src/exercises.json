@@ -1,0 +1,37 @@
+{
+  "Arreglos": [
+    { "name": "seguimientoAplicacionesBasicas", "href": "Ejercicios principales/Arreglos/seguimientoAplicacionesBasicas.js" }
+  ],
+  "Asincronismo": [
+    { "name": "Asincronismo", "href": "Ejercicios principales/Asincronismo/async.js"}
+  ],
+  "Ciclos": [
+    { "name": "menuSeguimiento1", "href": "Ejercicios principales/Ciclos/menuSeguimiento1.js" },
+    { "name": "menuTaller", "href": "Ejercicios principales/Ciclos/menuTaller.js" }
+  ],
+  "Deciciones": [
+    { "name": "Seguimiento1", "href": "Ejercicios principales/Deciciones/Seguimiento1.js" },
+    { "name": "Taller", "href": "Ejercicios principales/Deciciones/Taller.js" }
+  ],
+  "Ejercicios iniciales": [
+    { "name": "BlackJack", "href": "Ejercicios principales/Ejercicios iniciales/BlackJack.js" },
+    { "name": "BlackJackSimplificado", "href": "Ejercicios principales/Ejercicios iniciales/BlackJackSimplificado.js" },
+    { "name": "Semaforo", "href": "Ejercicios principales/Ejercicios iniciales/Semaforo.js" }
+  ],
+  "Excepciones": [
+    { "name": "exceptions", "href": "Ejercicios principales/Excepciones/exceptions.js" }
+  ],
+  "Funciones": [
+    { "name": "Seguimiento1Corte2", "href": "Ejercicios principales/Funciones/Seguimiento1Corte2.js" },
+    { "name": "SeguimientoMenuFunction", "href": "Ejercicios principales/Funciones/SeguimientoMenuFunction.js" },
+    { "name": "TallerMenuFunction", "href": "Ejercicios principales/Funciones/TallerMenuFunction.js" }
+  ],
+  "Mapas": [
+    { "name": "ejerciciosArraysMapSet", "href": "Ejercicios principales/Mapas/ejerciciosArraysMapSet.js" },
+    { "name": "seguimientoAplicacionesBasicasMap", "href": "Ejercicios principales/Mapas/seguimientoAplicacionesBasicasMap.js" }
+  ],
+  "Objetos": [
+    { "name": "class", "href": "Ejercicios principales/Objetos/class.js" },
+    { "name": "objects", "href": "Ejercicios principales/Objetos/objects.js" }
+  ]
+}
