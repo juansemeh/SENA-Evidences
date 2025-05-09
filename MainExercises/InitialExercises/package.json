@@ -1,0 +1,27 @@
+{
+  "name": "sena-exercises",
+  "version": "1.0.0",
+  "description": "This is my first GitHub repository. Here i added the JavaScript and TypeScript exercises i was asigned from the instructor Arle Morales.\r The exercises are separated by branches, so every exercise built in JavaScript is in the branch called \"JavaScript\" and every exercise built in TypeScript is in the branch called \"TypeScript\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "blackjack": "ts-node src/BlackJack.ts",
+    "traffic": "ts-node src/TrafficLight.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juansemeh/SENA-Evidences.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juansemeh/SENA-Evidences/issues"
+  },
+  "homepage": "https://github.com/juansemeh/SENA-Evidences#readme",
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
