@@ -1,0 +1,19 @@
+{
+  "name": "loops",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Loops1": "ts-node src/Loops1.ts",
+    "Loops2": "ts-node src/Loops2.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
