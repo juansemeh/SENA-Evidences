@@ -4,9 +4,9 @@ This project contains a collection of TypeScript scripts for practicing programm
 
 ## Structure
 
-- `Loops1.ts` — Basic math and string functions with a menu.
-- `Loops2.ts` — (Add a description if you have this file.)
-- `Loops3.ts` — Ternary and decision-making exercises with interactive menus.
+- `Functions1.ts` — Basic math and string functions with a menu.
+- `Functions2.ts` — (Add a description if you have this file.)
+- `Functions3.ts` — Ternary and decision-making exercises with interactive menus.
 
 ## Requirements
 
@@ -24,9 +24,9 @@ This project contains a collection of TypeScript scripts for practicing programm
 2. Run any script using the npm scripts defined in package.json . For example:
 
    ```bash
-   npm run loops1
-   npm run loops2
-   npm run loops3
+   npm run Functions1
+   npm run Functions2
+   npm run Functions3
    ``` 
 
 ## Usage 
