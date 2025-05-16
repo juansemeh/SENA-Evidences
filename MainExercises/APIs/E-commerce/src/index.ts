@@ -7,7 +7,7 @@ const port = 3000;
 
 const server = http.createServer((req, res) => {
   const parsedUrl = url.parse(req.url || '', true);
-  if (parsedUrl.pathname === '/products') {
+  if (parsedUrl.pathname?.startsWith('/products')) {
     handleProductsRoute(req, res);
   } else {
     res.statusCode = 404;
